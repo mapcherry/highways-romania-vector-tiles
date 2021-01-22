@@ -12,7 +12,6 @@ cd dist
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-echo "VUE_APP_MAPCHERRY_API_KEY=60d01d13bc83e52b57543d083215ee0e" > .env
 git init
 git add -A
 git commit -m 'deploy'
