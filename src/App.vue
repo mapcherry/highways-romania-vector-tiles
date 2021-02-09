@@ -89,7 +89,7 @@ export default {
               "line-width": 3,
             },
           },
-          "country_3" // insert before layer `country_3` so highways are painted below labels
+          "place_village" // insert before layer `place_village` so highways are painted below labels
         );
 
         map.addLayer(
@@ -108,7 +108,7 @@ export default {
               "line-width": 3,
             },
           },
-          "country_3" // insert before layer `country_3` so highways are painted below labels
+          "place_village" // insert before layer `place_village` so highways are painted below labels
         );
 
         map.addLayer(
@@ -127,7 +127,7 @@ export default {
               "line-width": 3,
             },
           },
-          "country_3" // insert before layer `country_3` so highways are painted below labels
+          "place_village" // insert before layer `place_village` so highways are painted below labels
         );
 
         map.addLayer(
@@ -178,7 +178,7 @@ export default {
               "text-color": "#1D8A7F",
             },
           },
-          "country_3" // insert before layer `country_3` so highways are painted below labels
+          "place_village" // insert before layer `place_village` so highways are painted below labels
         );
 
         map.addLayer(
@@ -205,7 +205,7 @@ export default {
               "icon-size": 0.8,
             },
           },
-          "country_3" // insert before layer `country_3` so highways are painted below labels
+          "place_village" // insert before layer `place_village` so highways are painted below labels
         );
 
         // remove roadshields from motorways in original style
